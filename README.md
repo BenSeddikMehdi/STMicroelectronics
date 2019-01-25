@@ -21,13 +21,18 @@ To run this example you shall need the following hardware :
 
 ![model](https://user-images.githubusercontent.com/43390471/51721641-928e9f80-204a-11e9-943c-0c9b5a9bfee5.png)
 
-## Configure Model for Code Generation and Deploy into hardware board
+## Configure Model for Code Generation and Deploy to hardware board
 
 In this task, you will configure a simple model to run on the STMicroelectronics Nucleo board.
 
 1. Open the STM32F103_Nucleo_64_Blinking_LED.slx model. This model has been configured for the Nucleo F103RB board. Follow the steps shown in the figure below to configure the model for the appropriate Nucleo board:
 
 ![02](https://user-images.githubusercontent.com/43390471/51721689-bbaf3000-204a-11e9-9d31-8507e591b5e5.png)
+![03](https://user-images.githubusercontent.com/43390471/51721715-d386b400-204a-11e9-8661-d2093755510c.png)
+
+2. The user LED is driven by GPIO Pin 13 on the Nucleo F401RE board. The user LED might be driven by a different Pin on different Nucleo boards.
+
+3. Click on "Deploy To Hardware" to automatically download the generated bin file, stmnucleo_gettingstarted.bin, on to the connected Nucleo board.
 
 
 
