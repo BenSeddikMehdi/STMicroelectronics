@@ -8,8 +8,8 @@ In this example you will learn how to configure a simple Simulink model to gener
 
 ## Prerequisites
 
-1-)- If you are new to Simulink, we recommend completing the Interactive Simulink Tutorial.
-2-)- If you are new to Simulink Coder, visit the Embedded Coder product page for an overview and tutorials.
+1-)- If you are new to Simulink, we recommend completing the Interactive Simulink Tutorial.\
+2-)- If you are new to Simulink Coder, visit the Embedded Coder product page for an overview and tutorials.\
 3-)- If you have not yet installed ST-Link/V2 USB drivers, follow the steps as described in Install Drivers for STMicroelectronics Nucleo boards.
 
 
