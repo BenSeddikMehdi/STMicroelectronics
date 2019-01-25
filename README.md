@@ -27,6 +27,9 @@ In this task, you will configure a simple model to run on the STMicroelectronics
 
 1. Open the STM32F103_Nucleo_64_Blinking_LED.slx model. This model has been configured for the Nucleo F103RB board. Follow the steps shown in the figure below to configure the model for the appropriate Nucleo board:
 
+![02](https://user-images.githubusercontent.com/43390471/51721689-bbaf3000-204a-11e9-9d31-8507e591b5e5.png)
+
+
 
 
 
