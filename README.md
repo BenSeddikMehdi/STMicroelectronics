@@ -19,6 +19,14 @@ To run this example you shall need the following hardware :
 1-)- Supported STMicroelectronics Nucleo boards.\
 2-)- USB type A to Mini-B cable.
 
+![model](https://user-images.githubusercontent.com/43390471/51721077-1c893900-2048-11e9-88dd-3f8a28ec7c98.png)
+
+## Configure Model for Code Generation and Deploy into hardware board
+
+In this task, you will configure a simple model to run on the STMicroelectronics Nucleo board.
+
+1. Open the STM32F103_Nucleo_64_Blinking_LED.slx model. This model has been configured for the Nucleo F103RB board. Follow the steps shown in the figure below to configure the model for the appropriate Nucleo board:
+
 
 
 
