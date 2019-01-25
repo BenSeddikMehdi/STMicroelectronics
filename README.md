@@ -35,7 +35,11 @@ In this task, you will configure a simple model to run on the STMicroelectronics
 3. Click on "Deploy To Hardware" to automatically download the generated bin file, stmnucleo_gettingstarted.bin, on to the connected Nucleo board.
 
 
+![04](https://user-images.githubusercontent.com/43390471/51721791-1d6f9a00-204b-11e9-9b05-357fa3d796c5.png)
 
+4. You will see in the Diagnostic Viewer window that code is generated and downloaded on to the connected board for the model.
+
+5. Observe that the LED turns ON for 0.5 second and switches OFF for 0.5 second periodically.
 
 
 
